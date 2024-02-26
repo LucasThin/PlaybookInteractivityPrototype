@@ -1,2 +1,1 @@
-# XRKitchen
-A Mixed reality concept of a wheelchair accessible kitchen.
+# Paper prototype of Playbook's Interactivity editor in XR
